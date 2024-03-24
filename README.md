@@ -1,7 +1,7 @@
-#Draw Digital Signature in Laravel
+## Draw Digital Signature in Laravel
 
 
-## Steps to Install
+### Steps to Install
 
 Install composer:
 
